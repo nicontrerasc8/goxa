@@ -11,7 +11,7 @@ import { StickyWhatsAppButton } from "@/components/ui/whatsapp-button";
 export default function Home() {
   return (
     <main className="min-h-screen bg-white">
-      {/* Hero Section */}
+      {/* Hero Section s */}
       <HeroSection />
       
       {/* Products Section */}
